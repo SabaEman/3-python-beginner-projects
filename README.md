@@ -1,4 +1,4 @@
-# Beginner Python Games and Simulations 🎮🐍
+# Beginner Python Games and Simulations 🎮
 
 This repository contains a fun set of beginner-level Python projects designed to build logic, control flow, and basic game development skills using simple scripts.
 
